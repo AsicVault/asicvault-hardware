@@ -2,9 +2,9 @@
 
 https://asicvault.io/
 
-<a href="https://raw.githubusercontent.com/AsicVault/asicvault-hardware/main/images/3_av_rev21_btm_3dview.png"><img src="https://github.com/AsicVault/asicvault-hardware/blob/main/images/3_av_rev21_btm_3dview_small.jpg" alt="AsicVault PCB 3D view 1"></a>
+<a href="https://raw.githubusercontent.com/AsicVault/asicvault-hardware/main/images/3_av_rev21_btm_3dview.png"><img src="https://github.com/AsicVault/asicvault-hardware/blob/main/images/3_av_rev21_btm_3dview_small.jpg" alt="AsicVault PCB 3D bottom view"></a>
 
-<a href="https://raw.githubusercontent.com/AsicVault/asicvault-hardware/main/images/4_av_rev21_top_3dview.png"><img src="https://github.com/AsicVault/asicvault-hardware/blob/main/images/4_av_rev21_btm_3dview_small.jpg" alt="AsicVault PCB 3D view 2"></a>
+<a href="https://raw.githubusercontent.com/AsicVault/asicvault-hardware/main/images/4_av_rev21_top_3dview.png"><img src="https://github.com/AsicVault/asicvault-hardware/blob/main/images/4_av_rev21_top_3dview_small.jpg" alt="AsicVault PCB 3D top view"></a>
 
 ## License
 
